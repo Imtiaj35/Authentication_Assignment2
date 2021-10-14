@@ -1,4 +1,4 @@
-//Salvia Rahman; Student ID; 301114183
+//Imtiaj Hossain; Student ID; 301119638
 let mongoose = require('mongoose');
 
 // create a model class

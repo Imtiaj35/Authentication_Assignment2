@@ -1,4 +1,4 @@
-//Salvia Rahman; Student ID; 301114183
+//Imtiaj Hossain; Student ID; 301119638
 
 // require modules for the User Model
 let mongoose = require('mongoose');
